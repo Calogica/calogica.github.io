@@ -1,5 +1,7 @@
 ---
 title:  "Dice, Polls & Dirichlet Multinomials"
+redirect_to:
+  - https://calogica.com/blog
 date:   2018-11-27 10:00AM
 excerpt: "We explore a few applications of the Dirichlet Multinomial distribution using PyMC3."
 categories: [python, pymc3]

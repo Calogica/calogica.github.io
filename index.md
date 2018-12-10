@@ -1,6 +1,8 @@
 ---
 layout: splash
 title: Calogica
+redirect_to:
+  - https://calogica.com
 excerpt: "Data & Analytics Consulting"
 header:
   overlay_color: "#000"

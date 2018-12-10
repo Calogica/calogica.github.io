@@ -1,5 +1,7 @@
 ---
 title:  "SQL Window Functions to Pass a Data Analytics Interview (Opinionated SQL Series Part 2/N)"
+redirect_to:
+  - https://calogica.com/sql/2018/07/01/sql-functions-for-data-analyst-interviews.html
 date:   2018-07-01 10:00AM
 excerpt: "An opinionated introduction to 'advanced' SQL for data warehouse platforms, such as Redshift, Snowflake and Teradata, Part 2 of N"
 categories: [sql]
