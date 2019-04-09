@@ -1,7 +1,6 @@
 ---
 title:  "Random Sampling Within Groups using SQL"
-redirect_to:
-  - https://calogica.com/sql/2018/07/21/random-sampling-within-groups-snowflake-sql.html
+redirect_to: https://calogica.com/sql/2018/07/21/random-sampling-within-groups-snowflake-sql.html
 date:   2018-07-21 8:00AM
 excerpt: "How to randomly select rows within a subset or group of your data using SQL"
 categories: [sql]

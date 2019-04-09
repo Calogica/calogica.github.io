@@ -1,5 +1,6 @@
 ---
 title:  "Confidence Intervals in SQL, when no real mathematicians are looking"
+redirect_to: https://calogica.com/sql/2018/05/09/confidence-intervals-sql.html
 date:   2018-05-09 10:00AM
 excerpt: "How to calculate approximations of confidence intervals for proportions & probabilities in SQL"
 categories: [sql]

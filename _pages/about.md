@@ -1,6 +1,7 @@
 ---
 layout: single
 title: About Us
+redirect_to: https://calogica.com/about
 permalink: /about/
 author_profile: true
 ---

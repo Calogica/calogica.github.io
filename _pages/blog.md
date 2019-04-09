@@ -1,5 +1,6 @@
 ---
 title: "Blog Posts"
+redirect_to: https://calogica.com/blog
 permalink: /blog
 layout: posts
 author_profile: true

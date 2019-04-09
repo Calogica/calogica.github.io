@@ -1,7 +1,6 @@
 ---
 title:  "Creating a 4-5-4 Retail Calendar using SQL and dbt (UPDATED)"
-redirect_to:
-  - https://calogica.com/sql/dbt/2018/11/15/retail-calendar-in-sql.html
+redirect_to: https://calogica.com/sql/dbt/2018/11/15/retail-calendar-in-sql.html
 date:   2018-11-15 7:00PM
 excerpt: "Using SQL and dbt, we create a date dimension table using a retail/merchandising calendar known as a 4-5-4 calendar."
 categories: [sql, dbt]

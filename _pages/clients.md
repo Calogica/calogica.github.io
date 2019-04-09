@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Clients
+redirect_to: https://calogica.com/clients
 permalink: /clients
 author_profile: true
 ---

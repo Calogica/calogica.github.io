@@ -1,7 +1,6 @@
 ---
 title:  "An Opinionated Introduction to Data Warehouse Query Strategies, Part 1 of N"
-redirect_to:
-  - https://calogica.com/sql/2018/06/22/data-warehouse-query-strategies.html
+redirect_to: https://calogica.com/sql/2018/06/22/data-warehouse-query-strategies.html
 date:   2018-06-22 10:00AM
 excerpt: "An opinionated introduction to query strategies for data warehouse platforms, such as Redshift, Snowflake and Teradata"
 categories: [sql]

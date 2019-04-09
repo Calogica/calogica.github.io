@@ -1,5 +1,6 @@
 ---
 title:  "Tableau Redshift to Snowflake Converter"
+redirect_to: https://calogica.com/tableau/snowflake/2018/05/04/tableau-snowflake-converter.html
 date:   2018-05-04 10:00AM
 categories: [tableau, snowflake]
 ---

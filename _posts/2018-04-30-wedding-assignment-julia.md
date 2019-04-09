@@ -1,5 +1,6 @@
 ---
 title:  "Wedding Table Assignment Problem using Julia"
+redirect_to: https://calogica.com/julia/optimization/2018/04/30/wedding-assignment-julia.html
 date:   2018-04-30 9:00AM
 categories: [julia, optimization]
 excerpt: "A Julia port from Python of the Wedding Table Assignment example from [PuLP](https://github.com/coin-or/pulp/blob/master/examples/wedding.py)."

@@ -1,5 +1,6 @@
 ---
 title:  "A Warehouse Allocation Example using Julia"
+redirect_to: https://calogica.com/julia/optimization/2018/05/01/warehouse-location-julia.html
 date:   2018-05-01 9:00AM
 categories: [julia, optimization]
 excerpt: "We solve a textbook optimization example involving planning multiple warehouse locations using Julia"

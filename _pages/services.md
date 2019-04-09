@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Services
+redirect_to: https://calogica.com/services
 permalink: /services
 author_profile: true
 toc: true

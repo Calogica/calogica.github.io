@@ -1,5 +1,6 @@
 ---
 title:  "Confidence Intervals, when no real mathematicians are looking - Tableau Edition"
+redirect_to: https://calogica.com/tableau/2018/06/02/confidence-intervals-tableau.html
 date:   2018-06-02 10:00AM
 excerpt: "How to calculate approximations of confidence intervals for proportions & probabilities in Tableau"
 categories: [tableau]
